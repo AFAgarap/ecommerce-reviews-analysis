@@ -1,4 +1,4 @@
-# bankruptcy-prediction
+# Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network (RNN)
 
 ## Abstract
 
