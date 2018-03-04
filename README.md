@@ -1,11 +1,28 @@
 Statistical Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network (RNN)
 ===
 
+[![DOI](https://zenodo.org/badge/121918154.svg)](https://zenodo.org/badge/latestdoi/121918154)
+
 The full paper on this project may be read at [ResearchGate](https://goo.gl/1z43ax).
 
 ## Abstract
 
 Understanding customer sentiments is of paramount importance in marketing strategies today. Not only will it give companies an insight as to how customers perceive their products and/or services, but it will also give them an idea on how to improve their offers. This paper attempts to understand the correlation of different variables in customer reviews on a women clothing e-commerce, and to classify each review whether it recommends the reviewed product or not and whether it consists of positive, negative, or neutral sentiment. To achieve these goals, we employed univariate and multivariate analyses on dataset features except for review titles and review texts, and we implemented a bidirectional recurrent neural network (RNN) with long-short term memory unit (LSTM) for recommendation and sentiment classification. Results have shown that a recommendation is a strong indicator of a positive sentiment score, and vice-versa. On the other hand, ratings in product reviews are fuzzy indicators of sentiment scores. We also found out that the bidirectional LSTM was able to reach an F1-score of 0.88 for recommendation classification, and 0.93 for sentiment classification.
+
+## Citation
+
+To cite the repository/software, kindly use the following BibTex entry:
+
+```
+@misc{abien_fred_agarap_2018_1188376,
+  author       = {Abien Fred Agarap},
+  title        = {AFAgarap/ecommerce-reviews-analysis: v0.1.0-alpha},
+  month        = mar,
+  year         = 2018,
+  doi          = {10.5281/zenodo.1188376},
+  url          = {https://doi.org/10.5281/zenodo.1188376}
+}
+```
 
 ## Usage
 
