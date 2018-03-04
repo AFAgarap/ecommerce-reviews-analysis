@@ -1,4 +1,5 @@
-# Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network (RNN)
+Statistical Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network (RNN)
+===
 
 The full paper on this project may be read at [ResearchGate](https://goo.gl/1z43ax).
 
@@ -51,6 +52,8 @@ All experiments in this study were conducted on a laptop computer with Intel Cor
 |Average/Total|0.93|0.93|0.93|4526|
 
 **Table 3. Statistical Report on Sentiment Classification using Bidirectional LSTM.**
+
+The dataset used had an imbalanced frequency distribution for classes in *recommendation indicator*, and through NLTK sentiment analyzer, classes in review *sentiment*. It is noticeable that the model used had relatively better predictive performance towards the class with the highest frequency distribution, i.e. *recommended* and *positive sentiment*. 
 
 ## License
 
