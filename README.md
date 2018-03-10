@@ -3,7 +3,7 @@ Statistical Analysis on E-Commerce Reviews, with Sentiment Classification using 
 
 [![DOI](https://zenodo.org/badge/121918154.svg)](https://zenodo.org/badge/latestdoi/121918154)
 
-The full paper on this project may be read at [ResearchGate](https://goo.gl/1z43ax).
+The full paper on this project may be read at [ResearchGate](https://goo.gl/1z43ax) or [Academia.edu](https://www.academia.edu/36114302/Statistical_Analysis_on_E-Commerce_Reviews_with_Sentiment_Classification_using_Bidirectional_Recurrent_Neural_Network).
 
 The scripts used for data visualization and the [dataset](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews) used were from Nick Brooks' Kaggle [report on Women's Clothing E-commerce Review](https://www.kaggle.com/nicapotato/guided-numeric-and-text-exploration-e-commerce/notebook).
 
