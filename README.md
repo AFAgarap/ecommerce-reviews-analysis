@@ -1,7 +1,7 @@
 Statistical Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network (RNN)
 ===
 
-!()[https://img.shields.io/badge/DOI-cs.CL%2F1805.03687-blue.svg]
+![](https://img.shields.io/badge/DOI-cs.CL%2F1805.03687-blue.svg)
 [![DOI](https://zenodo.org/badge/121918154.svg)](https://zenodo.org/badge/latestdoi/121918154)
 
 The full paper on this project may be read at [ResearchGate](https://goo.gl/1z43ax), [Academia.edu](https://www.academia.edu/36114302/Statistical_Analysis_on_E-Commerce_Reviews_with_Sentiment_Classification_using_Bidirectional_Recurrent_Neural_Network), and [arXiv.org](https://arxiv.org/abs/1805.03687).
